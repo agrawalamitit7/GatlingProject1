@@ -1,0 +1,7 @@
+RUN	simulations.LoopRequest	looprequest	1683201309651	test loop request	3.9.3
+USER	user request scenario	START	1683201312357
+REQUEST		get all users request	1683201312347	1683201312937	OK	 
+REQUEST		get single user request	1683201314959	1683201315089	OK	 
+REQUEST		add user request	1683201317104	1683201317601	OK	 
+REQUEST		add user request	1683201317602	1683201318113	OK	 
+USER	user request scenario	END	1683201318118

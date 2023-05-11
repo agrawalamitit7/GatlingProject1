@@ -1,0 +1,5 @@
+RUN	simulations.ExtractDataFromResponse	extractdatafromresponse	1683197388737	test extract data from response negative scenario	3.9.3
+USER	Check correlation and extract data	START	1683197391307
+REQUEST		Get all user	1683197391289	1683197392221	OK	 
+REQUEST		Get specific user	1683197392313	1683197392632	KO	jsonPath($.name).find.is(Jaimini Prajapat LLD1), but actually found Jaimini Prajapat LLD
+USER	Check correlation and extract data	END	1683197392684

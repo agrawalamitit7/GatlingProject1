@@ -1,0 +1,5 @@
+RUN	simulations.ExtractDataFromResponse	extractdatafromresponse	1683197120675	test extract data from response	3.9.3
+USER	Check correlation and extract data	START	1683197123457
+REQUEST		Get all user	1683197123420	1683197124289	OK	 
+REQUEST		Get specific user	1683197124425	1683197124693	OK	 
+USER	Check correlation and extract data	END	1683197124705

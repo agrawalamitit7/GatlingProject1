@@ -1,0 +1,10 @@
+{
+  "simulation": "ParabankParaSoftAccount",
+  "simulationId": "parabankparasoftaccount-20230503075936692",
+  "start": 1683100779497,
+  "description": "login with incorrect password",
+  "scenarios": ["ParabankParaSoftAccount"],
+  "assertions": [
+
+  ]
+}

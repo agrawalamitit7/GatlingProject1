@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.DataFeederCSV",
+  "simulationId": "datafeedercsv-20230505131525634",
+  "start": 1683292528074,
+  "description": "test",
+  "scenarios": ["CSV Feeder test"],
+  "assertions": [
+
+  ]
+}

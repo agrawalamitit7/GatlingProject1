@@ -1,0 +1,4 @@
+RUN	simulations.TestAddUserSimulation	testaddusersimulation	1683179002349	test post api	3.9.3
+USER	Add User Scenario	START	1683179004920
+REQUEST		add user request	1683179004906	1683179005957	KO	status.find.is(200), but actually found 201
+USER	Add User Scenario	END	1683179005990

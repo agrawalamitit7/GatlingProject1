@@ -1,0 +1,10 @@
+RUN	simulations.DataFeederCSV	datafeedercsv	1683293235980	test	3.9.3
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238160
+USER	CSV Feeder test	START	1683293238162
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238162
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238163
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238163
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238163
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238163
+ERROR	Get single user request: Failed to build request: No attribute named 'userid' is defined 	1683293238164
+USER	CSV Feeder test	END	1683293238167

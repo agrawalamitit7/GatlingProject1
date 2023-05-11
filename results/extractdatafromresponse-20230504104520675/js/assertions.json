@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.ExtractDataFromResponse",
+  "simulationId": "extractdatafromresponse-20230504104520675",
+  "start": 1683197123420,
+  "description": "test extract data from response",
+  "scenarios": ["Check correlation and extract data"],
+  "assertions": [
+
+  ]
+}

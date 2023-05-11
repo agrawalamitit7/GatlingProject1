@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.GetUserSimulation",
+  "simulationId": "getusersimulation-20230508085125711",
+  "start": 1683535888642,
+  "description": "test getuserlist",
+  "scenarios": ["Get User"],
+  "assertions": [
+
+  ]
+}

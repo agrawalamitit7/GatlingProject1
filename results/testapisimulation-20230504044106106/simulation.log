@@ -1,0 +1,4 @@
+RUN	simulations.TestAPISimulation	testapisimulation	1683175266106	test getApi	3.9.3
+USER	get user	START	1683175268560
+REQUEST		get user request	1683175268550	1683175269020	OK	 
+USER	get user	END	1683175269034

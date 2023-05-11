@@ -1,0 +1,10 @@
+{
+  "simulation": "ParabankParaSoftAccountScala",
+  "simulationId": "parabankparasoftaccountscala-20230503081639709",
+  "start": 1683101802194,
+  "description": "test account with scala file",
+  "scenarios": ["ParabankParaSoftAccountScala"],
+  "assertions": [
+
+  ]
+}

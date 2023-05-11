@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.TestAddUserSimulation",
+  "simulationId": "testaddusersimulation-20230504054322349",
+  "start": 1683179004906,
+  "description": "test post api",
+  "scenarios": ["Add User Scenario"],
+  "assertions": [
+
+  ]
+}

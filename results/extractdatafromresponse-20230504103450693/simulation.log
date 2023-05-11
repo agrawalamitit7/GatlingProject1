@@ -1,0 +1,5 @@
+RUN	simulations.ExtractDataFromResponse	extractdatafromresponse	1683196490693	test correlation and extract data	3.9.3
+USER	Check correlation and extract data	START	1683196493205
+REQUEST		Get all user	1683196493192	1683196494139	KO	jsonPath($.[0].id).find.exists extraction crashed: string matching regex '[^*.\[\]()=!<>\s]+' expected but '[' found
+ERROR	Get specific user: Failed to build request: No attribute named 'userid' is defined 	1683196494220
+USER	Check correlation and extract data	END	1683196494224

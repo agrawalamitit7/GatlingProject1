@@ -1,0 +1,5 @@
+RUN	simulations.TestAddUserSimulation	testaddusersimulation	1683179614050	test api with post and get user	3.9.3
+USER	Add User Scenario	START	1683179616711
+REQUEST		add user request	1683179616698	1683179617797	OK	 
+REQUEST		get user request	1683179620832	1683179620962	OK	 
+USER	Add User Scenario	END	1683179620973

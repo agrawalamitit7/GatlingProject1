@@ -1,0 +1,4 @@
+RUN	computerdatabase.GetUserSimulation	getusersimulation	1683535885711	test getuserlist	3.9.3
+USER	Get User	START	1683535888660
+REQUEST		getUserList	1683535888642	1683535889063	OK	 
+USER	Get User	END	1683535889082
